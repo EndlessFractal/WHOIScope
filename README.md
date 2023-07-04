@@ -7,7 +7,7 @@ WHOIScope simplifies the WHOIS information extraction by leveraging multiple WHO
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/NotoriusNeo/WHOIScope
+   git clone https://github.com/EndlessFractal/WHOIScope
    ```
 
 2. Navigate to the project directory:
