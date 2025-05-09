@@ -32,7 +32,7 @@ if __name__ == "__main__":
     \  /\  / | | \ \_/ /_| |_/\__/ / (_| (_) | |_) |  __/
      \/  \/\_| |_/\___/ \___/\____/ \___\___/| .__/ \___|
                                              | |
-    by NotoriusNeo                           |_|         """)
+    by EndlessFractal                        |_|         """)
     print("WHOIS Domain Lookup Tool")
     domain = input("Enter domain to check: ")
 
